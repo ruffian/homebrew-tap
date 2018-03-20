@@ -1,9 +1,9 @@
 class Aareguru < Formula
   desc "aare.guru Aaretemperatur & Wetter & Sonne fürs Aareschwimmen - Chills mau wider chli"
   homepage "https://aare.guru/"
-  url "https://github.com/gexclaude/aaregurucli/releases/download/v0.2.17/aareguru_0.2.17_darwin_amd64.tar.gz"
-  version "0.2.17"
-  sha256 "5abc897c0af5d9d57f624e66f338c1e282d8f8b5105095b207c28669f30a791e"
+  url "https://github.com/gexclaude/aaregurucli/releases/download/v0.2.18/aareguru_0.2.18_darwin_amd64.tar.gz"
+  version "0.2.18"
+  sha256 "852876c6b1903a37e78c4191b9094be250e9e330593adc75c6e8c65773d3f288"
 
   def install
     bin.install "aareguru"
