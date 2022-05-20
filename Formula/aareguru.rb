@@ -6,7 +6,6 @@ class Aareguru < Formula
   desc "aare.guru Aaretemperatur & Wetter & Sonne fürs Aareschwimmen - Chills mau wider chli"
   homepage "https://aare.guru/"
   version "0.5.0"
-  bottle :unneeded
 
   on_macos do
     if Hardware::CPU.intel?
